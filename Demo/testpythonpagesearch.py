@@ -6,7 +6,7 @@ import warnings
 class TestPythonPageSearch(unittest.TestCase):
 
     def setUp(self):
-        self.driver = Provider.seleniumdriver("chrome")
+        self.driver = Provider.seleniumdriver("kaytari")
         warnings.filterwarnings(action="ignore", message="unclosed", category=ResourceWarning)
 
     def test_search_python_page(self):
