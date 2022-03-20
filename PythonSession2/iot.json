@@ -1,0 +1,12 @@
+{
+    "iot_devices":[
+        {
+            "type": "Fridge",
+            "temp": -5
+        },
+        {
+            "type": "CNC",
+            "temp": 40
+        }
+    ]
+}
