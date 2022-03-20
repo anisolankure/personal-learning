@@ -1,3 +1,4 @@
+
 from pywebio.input import input, FLOAT
 from pywebio.output import put_text
 
